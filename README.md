@@ -116,9 +116,9 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=HusnainKhalid82&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en&hide_border=false&border_radius=10" height="200" alt="Stats Graph"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=HusnainKhalid82&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" height="200" alt="Stats Graph"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HusnainKhalid82&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&border_radius=10" height="200" alt="Languages Graph"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=HusnainKhalid82&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="200" alt="Languages Graph"/>
 
 </div>
 
@@ -129,7 +129,7 @@
 ## 🏆 &nbsp; GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HusnainKhalid82&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1" alt="Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HusnainKhalid82&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6&margin-h=6&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" width="100%"/>
 </div>
 
 ---
@@ -145,6 +145,8 @@
     <img alt="contribution snake" src="https://raw.githubusercontent.com/HusnainKhalid82/HusnainKhalid82/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
+
+> ⚡ **To activate the snake:** Go to your `HusnainKhalid82` profile repository on GitHub → **Actions** tab → Run the **"Generate Snake"** workflow manually once.
 
 ---
 
