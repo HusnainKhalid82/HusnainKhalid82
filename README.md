@@ -19,13 +19,16 @@
   <a href="mailto:husnainkhalid626@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/husnainkhalid">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/husnainkhalid">
+  &nbsp;
+  <a href="https://github.com/HusnainKhalid82">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=husnainkhalid&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=HusnainKhalid82&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -35,40 +38,25 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; About Me
+## 👋 &nbsp; About Me
 
-<img align="right" alt="AI Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="AI Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```python
-class HusnainKhalid:
+🎓 &nbsp; **BS Artificial Intelligence** graduate from **FAST-NUCES**
 
-    def __init__(self):
-        self.name        = "Husnain Khalid"
-        self.degree      = "BS Artificial Intelligence"
-        self.university  = "FAST-NUCES"
-        self.email       = "husnainkhalid626@gmail.com"
-        self.focus       = ["Machine Learning", "Deep Learning",
-                            "NLP", "Full-Stack Dev", "Unity"]
-        self.languages   = ["Python", "C++", "JavaScript",
-                            "TypeScript", "SQL", "R"]
+🌱 &nbsp; Continuously deepening my knowledge in **Machine Learning**, **Deep Learning**, **NLP**, and data analysis with **Pandas**, **NumPy** & **Scikit-learn**
 
-    def current_work(self):
-        return [
-            "🧠  Training deep learning models",
-            "📝  Building NLP pipelines",
-            "🌐  Deploying full-stack web apps",
-            "🎮  Creating Unity simulations",
-            "🌟  Contributing to open-source",
-        ]
+🔭 &nbsp; Currently working on **AI/ML projects**, data preprocessing & modeling, **full-stack web apps**, and **Unity** interactive simulations
 
-    def fun_fact(self):
-        return (
-            "I find joy in discovering hidden patterns "
-            "in data — and turning them into intelligent systems."
-        )
+👯 &nbsp; Looking to collaborate on **ML projects**, AI-driven apps, Unity experiences & open-source tools
 
-me = HusnainKhalid()
-```
+🤔 &nbsp; Seeking guidance on scalable AI systems, production-level ML deployment & cloud-based data solutions (**AWS / GCP**)
+
+💬 &nbsp; Ask me about **Python**, **SQL**, **C++**, DSA, machine learning, data analysis, web development & Unity
+
+📫 &nbsp; Reach me at **husnainkhalid626@gmail.com**
+
+⚡ &nbsp; Fun fact: I enjoy discovering hidden patterns in data and turning them into intelligent systems!
 
 <br clear="right"/>
 
@@ -76,94 +64,61 @@ me = HusnainKhalid()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> &nbsp; Tech Stack
-
-<div align="center">
+## 🛠️ &nbsp; Tech Stack
 
 ### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,r" height="50" />
+</div>
 
 ### 🤖 AI / Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" height="50" />
+</div>
 
 ### 🌐 Web Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,redux" height="50" />
+</div>
 
 ### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" height="50" />
+</div>
 
 ### ☁️ Tools & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-</p>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,gcp,unity" height="50" />
 </div>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; What I'm Building
+## 🚀 &nbsp; Current Projects
 
-<div align="center">
-
-| 🚀 Project | 📋 Description |
-|:---|:---|
-| 🧠 **Deep Learning Models** | Neural network architectures for classification, regression & NLP using TensorFlow & PyTorch |
-| 📝 **NLP Pipelines** | Sentiment analysis, text summarization & named entity recognition systems |
-| 📊 **Data Analysis & Viz** | Preprocessing, exploring & visualizing large datasets with Pandas, NumPy & Seaborn |
-| 🌐 **Full-Stack Web Apps** | Scalable applications with React, Node.js, Express & MongoDB/PostgreSQL |
-| 🎮 **Unity Simulations** | Interactive applications with AI-driven behaviors & physics-based systems |
-| 🌟 **Open-Source** | Contributing to AI & developer-tooling projects to sharpen skills & give back |
-
-</div>
+- 🧠 &nbsp; **ML & Deep Learning Models**: Neural network architectures for classification, regression & NLP using TensorFlow & PyTorch
+- 📝 &nbsp; **NLP Pipelines**: Sentiment analysis, text summarization & named entity recognition systems
+- 📊 &nbsp; **Data Analysis & Visualization**: Preprocessing & visualizing large datasets with Pandas, NumPy & Seaborn
+- 🌐 &nbsp; **Full-Stack Web Applications**: Scalable apps with React, Node.js, Express & MongoDB/PostgreSQL
+- 🎮 &nbsp; **Unity Simulations**: Interactive applications with AI-driven behaviors & physics-based systems
+- 🌟 &nbsp; **Open-Source Contributions**: Contributing to AI & developer-tooling projects
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> &nbsp; GitHub Stats
+## 📊 &nbsp; GitHub Stats
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=husnainkhalid&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" height="220" alt="Streak Graph"/>
+  <img src="https://streak-stats.demolab.com/?user=HusnainKhalid82&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" height="200" alt="Streak Graph"/>
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=husnainkhalid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en&hide_border=false&border_radius=10" height="220" alt="Stats Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HusnainKhalid82&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en&hide_border=false&border_radius=10" height="200" alt="Stats Graph"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=husnainkhalid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&border_radius=10" height="220" alt="Languages Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HusnainKhalid82&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&border_radius=10" height="200" alt="Languages Graph"/>
 
 </div>
 
@@ -171,23 +126,23 @@ me = HusnainKhalid()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 GitHub Trophies
+## 🏆 &nbsp; GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=husnainkhalid&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HusnainKhalid82&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1" alt="Trophies" width="100%"/>
 </div>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Contribution Snake
+## 🐍 &nbsp; Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/affan-ch/affan-ch/blob/main/dist/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/affan-ch/affan-ch/blob/main/dist/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake" src="https://github.com/affan-ch/affan-ch/blob/main/dist/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HusnainKhalid82/HusnainKhalid82/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HusnainKhalid82/HusnainKhalid82/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/HusnainKhalid82/HusnainKhalid82/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
@@ -195,30 +150,30 @@ me = HusnainKhalid()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 Contribution Graph
+## 📈 &nbsp; Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=husnainkhalid&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=false&custom_title=Husnain%27s%20Activity%20Graph" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HusnainKhalid82&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=false&custom_title=Husnain%27s%20Activity%20Graph" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📬 Connect With Me
+## 📬 &nbsp; Connect With Me
 
 <div align="center">
 
-  <a href="mailto:husnainkhalid626@gmail.com">
-    <img src="https://img.shields.io/badge/Email-husnainkhalid626%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <br/><br/>
-  <a href="https://linkedin.com/in/husnainkhalid">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mailto:husnainkhalid626@gmail.com" style="margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://github.com/husnainkhalid">
-    <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://linkedin.com/in/husnainkhalid" style="margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/HusnainKhalid82" style="margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
   </a>
 
 </div>
