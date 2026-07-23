@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/husnainkhalid">
+<a href="https://www.linkedin.com/in/husnain-khalid-9860033b5">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:husnainkhalid626@gmail.com">
@@ -166,7 +166,7 @@ class HusnainKhalid:
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=HusnainKhalid82&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=adbac7&bg_color=1a1b26&rank_icon=github" alt="Stats"/>
+      <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=HusnainKhalid82&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=adbac7&bg_color=1a1b26&rank_icon=github" alt="Stats"/>
     </td>
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com/?user=HusnainKhalid82&theme=tokyonight&hide_border=true&background=1a1b26&ring=58a6ff&fire=ff9900&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7&stroke=58a6ff22" alt="Streak"/>
@@ -174,7 +174,7 @@ class HusnainKhalid:
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusnainKhalid82&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=adbac7&bg_color=1a1b26" alt="Top Languages"/>
+      <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=HusnainKhalid82&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=adbac7&bg_color=1a1b26" alt="Top Languages"/>
     </td>
   </tr>
 </table>
@@ -182,8 +182,6 @@ class HusnainKhalid:
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HusnainKhalid82&bg_color=1a1b26&color=58a6ff&line=58a6ff&point=ff9900&hide_border=true&custom_title=Contribution+Graph&area=true&area_color=58a6ff&radius=6" width="100%" alt="Activity Graph"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=HusnainKhalid82&theme=tokyonight&no-bg=true&no-frame=true&margin-w=12&margin-h=15&column=7" alt="Trophies"/>
 
 </div>
 
@@ -207,7 +205,7 @@ class HusnainKhalid:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/husnainkhalid">
+<a href="https://www.linkedin.com/in/husnain-khalid-9860033b5">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:husnainkhalid626@gmail.com">
